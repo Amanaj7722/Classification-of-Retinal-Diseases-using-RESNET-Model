@@ -73,11 +73,6 @@ These 5 classes include:
 3. DEVELOPING A GUI:
 A user interface is developed which is user friendly developed using tkinter. This GUI asks for the retinal image and gives the report of the classified retinal image.
 
-## CONCLUSIONS AND FUTURE WORK
-In this project, we are able to classify the images into different stages of DR using the pretrained RESNET model. The GUI we developed will be helpful for both doctors and also the common people.
-
-Our future work is to convert the GUI into a mobile application. We are also trying to improve the accuracy.
-
 ## Output after testing the sample images
 ![image](https://user-images.githubusercontent.com/68366503/227287048-fc8d13fb-2467-4703-9937-705a846e0d96.png)
 
@@ -98,3 +93,8 @@ Our future work is to convert the GUI into a mobile application. We are also try
 
 ## Output in the console
 ![image](https://user-images.githubusercontent.com/68366503/227288988-9dff5966-ead9-4fbd-92a8-e4de044faf57.png)
+
+## CONCLUSIONS AND FUTURE WORK
+In this project, we are able to classify the images into different stages of DR using the pretrained RESNET model. The GUI we developed will be helpful for both doctors and also the common people.
+
+Our future work is to convert the GUI into a mobile application. We are also trying to improve the accuracy.
